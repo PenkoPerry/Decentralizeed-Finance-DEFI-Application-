@@ -1,0 +1,10 @@
+/* src/components/SplineBackground.css */
+.spline-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;           /* Ensure background is behind all content */
+  pointer-events: none;  /* Allow interactions to pass through */
+}
