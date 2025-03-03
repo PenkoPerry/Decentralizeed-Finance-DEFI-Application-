@@ -62,4 +62,19 @@ User Experience (UX) Issues	Build a simplified, intuitive frontend for easy inte
 
 
 
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/d4a4b2c0-35eb-447a-a67d-507c91ae10bb" />
+
+
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/c7e70578-ab35-4d4f-b2a3-67c7db7af87c" />
+
+
+<img width="514" alt="Image" src="https://github.com/user-attachments/assets/2099d05d-826d-43c4-9d36-0288ef5ad39e" />
+
+
+<img width="587" alt="Image" src="https://github.com/user-attachments/assets/1183587a-1e23-4e6c-881a-b49ca828437d" />
+
+
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/4958d748-7eaf-44c8-90b8-0a2001c112da" />
+
+
 
