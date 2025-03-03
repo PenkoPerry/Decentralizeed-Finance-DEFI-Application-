@@ -1,4 +1,4 @@
-# Decentralizeed-Finance-DEFI-Application-
+# Decentralized-Finance-DEFI-Application-
 Company Name : Codtech IT Solutions
 Name : kaushal Nilesh Waray 
 Intern Id : CT08QWM
